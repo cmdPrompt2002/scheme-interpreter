@@ -1,0 +1,9 @@
+What do car and cdr do? 
+Car returns the first item of the list, or the first half of a cons cell
+Cdr returns the rest of the list, or the last half of the cons cell
+
+Why is the single quote necessary? What does it do?
+The single quote ensure that the items in the list are interpreted as literals, not as variable names.
+
+The last line of the above should cause an error: why?
+The items are interpreted as variable names, but these variables are not assigned any value, thus creating an error
