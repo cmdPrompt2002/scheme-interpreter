@@ -1,2 +1,2 @@
 # ProgrammingLanguages
-repo for programming languages homework - it has the docker files needed for vscode to spin up a docker container
+Repo containing all assignments for CS251: Programming Languages.For the final version of the interpreter, see `interpreter.c` in the `final` folder.
